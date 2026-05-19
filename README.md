@@ -27,7 +27,7 @@ Blank customer ID — structurally invalid as this is a primary key field; raise
 
 **Cleaning Approach**
 
-Used Excel formulas to create standardised helper columns rather than overwriting raw data, preserving an audit trail
+Helper columns (Plan Proper, Gender Proper) were added alongside original values rather than overwriting them, preserving a full audit trail of changes made.
 Applied PROPER() for name and gender normalisation, manual correction for plan casing
 Filtered and flagged invalid/blank records separately rather than deleting them outright
 Validated email format visually and cross-referenced for duplicates using COUNTIF()
