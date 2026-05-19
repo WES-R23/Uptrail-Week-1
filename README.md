@@ -10,7 +10,7 @@ Files
 
 customer_signups.csv — raw sign-up data (messy)
 support_tickets.csv — raw support ticket data
-Cleaned.csv — cleaned and standardised Workbook
+Cleaned.xlsx — cleaned and standardised Workbook
 Week1_Report.docx — full business insights report
 
 **Data Quality Issues Identified**
