@@ -1,6 +1,10 @@
 # Uptrail-Week-1
 Data cleaning and analysis project in Excel — identifying and resolving data quality issues, followed by business insight reporting.
 
+**Preface**
+
+This is the first project in my data analytics portfolio, completed as part of an ongoing effort to build practical, end-to-end analytical experience. The goal was to simulate a real-world data pipeline — from receiving messy raw data through to delivering business insights to a stakeholder audience
+
 **Customer Data Cleaning & Analysis — Uptrail Week 1**
 
 **Project Overview**
